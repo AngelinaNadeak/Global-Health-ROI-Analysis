@@ -82,14 +82,6 @@ Examines healthcare workforce and infrastructure factors associated with success
 
 ---
 
-## Tableau Dashboard
-
-View Interactive Dashboard:
-
-https://public.tableau.com/shared/GT8SKMYFD?:display_count=n&:origin=viz_share_link
-
----
-
 ## Skills Demonstrated
 
 * Data Analysis
