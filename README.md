@@ -66,19 +66,19 @@ Examines healthcare workforce and infrastructure factors associated with success
 
 ### Global Infant Mortality Distribution
 
-![Dashboard 1](visdat 1.png)
+![Global Infant Mortality Distribution](visdat%201.png)
 
 ### Healthcare Spending vs Infant Mortality
 
-![Dashboard 2](visdat 2.png)
+![Healthcare Spending vs Infant Mortality](visdat%202.png)
 
 ### Healthcare ROI Champions
 
-![Dashboard 3](visdat 3.png)
+![Healthcare ROI Champions](visdat%203.png)
 
 ### Healthcare System Architecture
 
-![Dashboard 4](visdat 4.png)
+![Healthcare System Architecture](visdat%204.png)
 
 ---
 
